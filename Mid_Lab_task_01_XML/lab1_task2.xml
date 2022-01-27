@@ -1,0 +1,17 @@
+<task2>
+	<data>
+		<serial_no>23</serial_no>
+		<name>John Carter</name>
+		<admission_date>25/12/2015</admission_date>
+	</data>
+	<data>
+		<serial_no>29</serial_no>
+		<name>Bob Marshal</name>
+		<admission_date>13/01/1999</admission_date>
+	</data>
+	<data>
+		<serial_no>35</serial_no>
+		<name>Clark Kent</name>
+		<admission_date>17/06/2005</admission_date>
+	</data>
+</task2>
