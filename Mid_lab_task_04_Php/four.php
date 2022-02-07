@@ -1,7 +1,17 @@
 <?php 
-	$a=12
-	$b=14
-	$c=16
+	$a=18;
+	$b=141;
+	$c=16;
 
-	if(a>b )
+	if($a>$b && $a>$c)
+	{
+		print($a);
+	}
+	elseif ($b>$a && $b>$c) {
+		// code...
+		print($b);
+	}
+	else{
+		print($c);
+	}
 ?>
